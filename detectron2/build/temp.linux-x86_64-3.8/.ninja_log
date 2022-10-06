@@ -1,0 +1,14 @@
+# ninja log v5
+2	408	1646351951261086233	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/cuda_version.o	d19ff59b599372a1
+1	5093	1646351955941185241	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.o	2103441f8cb3ae94
+1	7564	1646351958413237540	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	39c551b9d179f067
+0	7768	1646351958617241855	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	4fedf2186396f70a
+0	8341	1646351959189253958	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.o	90eb9da464b4f83b
+0	8491	1646351959341257173	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	e442d5f1a865f0c3
+2	11263	1646351962113315819	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	54a7cbf84ce9421d
+1	11339	1646351962189317427	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/ROIAlign/ROIAlign_cuda.o	705058441e45a371
+1	11524	1646351962373321319	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	e39908c2d2aeeb70
+2	11582	1646351962433322588	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	97271b307da8b15d
+2	12597	1646351963449344084	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda.o	737e0cb9cfaf8c18
+2	13147	1646351963997355678	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	aeb63f64f57ea91d
+0	19673	1646351970509493453	/home/lahen/cvpr_code/detectron2/build/temp.linux-x86_64-3.8/home/lahen/cvpr_code/detectron2/detectron2/layers/csrc/vision.o	774c5f481d05be9e

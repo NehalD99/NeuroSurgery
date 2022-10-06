@@ -1,0 +1,7 @@
+/mnt/volume2/Data/lahen/datasets/NeuroSurgery/CompletedTransfers/506_A/DCNNdat_VID001A_0.0.0_0.4.11
+
+/mnt/volume2/Data/lahen/datasets/NeuroSurgery/CompletedTransfers/511_1/DCNNdat_VID002B_0.0.0_0.4.11
+
+/mnt/volume2/Data/lahen/datasets/NeuroSurgery/CompletedTransfers/517_1/DCNNdat_VID001C_0.0.0_0.5.34
+
+/mnt/volume2/Data/lahen/datasets/NeuroSurgery/CompletedTransfers/517_2/DCNNdat_VID001D_0.0.0_0.5.34

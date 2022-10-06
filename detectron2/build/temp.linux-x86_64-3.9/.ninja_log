@@ -1,0 +1,14 @@
+# ninja log v5
+85	911	1646349846430867702	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/cuda_version.o	e045b21d79457070
+84	5028	1646349850526888654	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.o	bc144ed5708ca410
+84	5626	1646349851000891078	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	676f2fb5f951dd05
+83	23560	1646349851795895144	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.o	b1b5ff473deaef8b
+83	23610	1646349858514929512	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/ROIAlign/ROIAlign_cuda.o	d4ea01a6b6a3b8af
+84	23645	1646349851951895942	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	63867c56d40b1019
+84	23674	1646349858781930878	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	cd41b72b00d388eb
+84	23705	1646349858865931307	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	c123a9971a225fa9
+85	23727	1646349860146937860	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda.o	9fc7bcc0ce359bcc
+85	23754	1646349858808931016	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	2ed7bfe2f3b43369
+85	23802	1646349851272892469	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	f58e09459b4e7a88
+85	23843	1646349860806941236	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	199c904f449c1ac7
+86	23896	1646349862322948990	/mnt/volume1/Datasets/rjena/code/detectron2/build/temp.linux-x86_64-3.9/mnt/volume1/Datasets/rjena/code/detectron2/detectron2/layers/csrc/vision.o	c56d35bc833f025a
